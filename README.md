@@ -2,9 +2,9 @@
 ## Twitter-Clone DApp on Ropsten 
 
 ### Authors:
-* Chady Morra
-* Boris Bambo
-* Abdelhafid Al Bekkaoui
+* [Chady Morra](https://github.com/chadymorra)
+* [Boris Bambo](https://github.com/bamboriz)
+* [Abdelhafid El Bekkaoui](https://github.com/hafeed06)
 
 ### Documentation:
 Deployed to Ropsten at 0x9851B2deAA558f40Cda156B9f5a52dd6F848Ba6f
